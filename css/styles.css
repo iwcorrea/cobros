@@ -1,2 +1,10 @@
 body { padding-bottom: 20px; }
 .card-header { font-weight: bold; }
+
+body { font-family: 'Arial', sans-serif; }
+
+.card { border-radius: 20px; }
+
+.btn-primary:hover { background-color: #ff6600; }
+
+@media (max-width: 600px) { .ocultar-movil { display: none; } }
